@@ -43,7 +43,7 @@
         <scene sceneID="5rb-zk-dDR">
             <objects>
                 <navigationController id="BS5-L7-sCq" sceneMemberID="viewController">
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="fWk-hy-44x" customClass="NavigationBar" customModule="NavigationTest" customModuleProvider="target">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" translucent="NO" id="fWk-hy-44x" customClass="NavigationBar" customModule="NavigationTest" customModuleProvider="target">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -64,7 +64,7 @@
                         <viewControllerLayoutGuide type="bottom" id="IKs-lL-CZZ"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="max-68-pdG">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="64" width="320" height="504"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>

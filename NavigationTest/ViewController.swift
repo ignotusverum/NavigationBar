@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 
     @IBAction func backButtonPressed(sender: AnyObject) {
         
-        self.navigationController?.popViewControllerAnimated(false)
+        self.dismissViewControllerAnimated(true, completion: nil)
     }
 }
 
