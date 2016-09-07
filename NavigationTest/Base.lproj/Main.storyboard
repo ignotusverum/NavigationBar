@@ -46,6 +46,7 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" translucent="NO" id="fWk-hy-44x" customClass="NavigationBar" customModule="NavigationTest" customModuleProvider="target">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="0.93725490199999995" green="0.59215686270000001" blue="0.58431372550000005" alpha="1" colorSpace="calibratedRGB"/>
                     </navigationBar>
                     <connections>
                         <segue destination="bpw-2a-oiV" kind="relationship" relationship="rootViewController" id="ode-cB-yxY"/>
